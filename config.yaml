@@ -2,7 +2,7 @@ baseURL: https://Abysswalker58.github.io
 
 languageCode: en-us
 title: "The Abyss"
-theme: "toha"
+theme: "dimension"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
